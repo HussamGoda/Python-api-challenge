@@ -13,4 +13,5 @@ The main folder is called Weather_and_vacation_Study_Py. Inside this folder, ple
 - Output_data: this is a folder, insider which there are one .csv file named cities (exported from the weather challenge to be used in the vacation challenge) and four figures required by the weather challenge 
 
 Thank you
+
 Hussam
